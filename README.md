@@ -2,7 +2,7 @@
 Flexblog
 </h1>
 
-<p align="center">A simple and responsive website using css flexbox</p>
+<p align="center">A simple and responsive website using html and css flexbox</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
