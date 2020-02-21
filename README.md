@@ -10,9 +10,7 @@ Flexblog
   </a>  
 </p>
 
-[//]: # "Add your gifs/images here:"
-
-<div>
+<div align="center">
   <img src="https://i.ibb.co/zsx2NqL/fleblogg.gif" alt="demo" height="425">
   <small style="display: block;">*sorry for the bug in GIF</small>
 </div>
