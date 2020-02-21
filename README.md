@@ -11,7 +11,8 @@ Flexblog
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co/nn49jBP/flexblog.gif" alt="demo" height="425">
+  <img style="display: block;" src="https://i.ibb.co/nn49jBP/flexblog.gif" alt="demo" height="425">
+  
   <small style="display: block;">*sorry for the bug in GIF</small>
 </div>
 
